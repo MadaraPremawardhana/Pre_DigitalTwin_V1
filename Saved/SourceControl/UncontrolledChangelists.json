@@ -1,0 +1,46 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Madara/Documents/Unreal Projects/PhD_Experiment/Content/SolarPanelActors/BP_Solar_Component.uasset",
+				"C:/Users/Madara/Documents/Unreal Projects/PhD_Experiment/Content/SolarPanelActors/BP_SolarPanel.uasset",
+				"C:/Users/Madara/Documents/Unreal Projects/PhD_Experiment/Content/World_Test.umap",
+				"C:/Users/Madara/Documents/Unreal Projects/PhD_Experiment/Content/Unit_Test.umap",
+				"C:/Users/Madara/Documents/Unreal Projects/PhD_Experiment/Content/Materials/Translucent_Mat.uasset",
+				"C:/Users/Madara/Documents/Unreal Projects/PhD_Experiment/Content/SimBlank/Materials/MI_NoiserClouds.uasset",
+				"C:/Users/Madara/Documents/Unreal Projects/PhD_Experiment/Content/Materials/1.uasset",
+				"C:/Users/Madara/Documents/Unreal Projects/PhD_Experiment/Content/Unit_Test_BuiltData.uasset",
+				"C:/Program Files/Epic Games/UE_5.1/Engine/Content/OpenWorldTemplate/LandscapeMaterial/M_ProcGrid.uasset",
+				"C:/Users/Madara/Documents/Unreal Projects/PhD_Experiment/Content/SimBlank/Materials/M_SkyDome.uasset",
+				"C:/Program Files/Epic Games/UE_5.1/Engine/Content/OpenWorldTemplate/LandscapeMaterial/MI_ProcGrid.uasset",
+				"C:/Users/Madara/Documents/Unreal Projects/PhD_Experiment/Content/SimBlank/Materials/MI_StarSkySphere.uasset",
+				"C:/Users/Madara/Documents/Unreal Projects/PhD_Experiment/Content/Materials/360_F_479050249_aLlTQpxnFg4rTybPjSPH1ZY9h8gx1ISc_Mat.uasset",
+				"C:/Users/Madara/Documents/Unreal Projects/PhD_Experiment/Content/Materials/Translucent_Mat_Inst.uasset",
+				"C:/Program Files/Epic Games/UE_5.1/Engine/Content/BasicShapes/BasicShapeMaterial.uasset",
+				"C:/Users/Madara/Documents/Unreal Projects/PhD_Experiment/Content/Materials/BasicShapeMaterial_Inst.uasset",
+				"C:/Users/Madara/Documents/Unreal Projects/PhD_Experiment/Content/Materials/BasicShapeMaterial.uasset",
+				"C:/Users/Madara/Documents/Unreal Projects/PhD_Experiment/Content/Materials/Opaque0-3.uasset",
+				"C:/Users/Madara/Documents/Unreal Projects/PhD_Experiment/Content/Materials/Opaque0-5.uasset",
+				"C:/Users/Madara/Documents/Unreal Projects/PhD_Experiment/Content/Materials/Opaque0-1.uasset",
+				"C:/Users/Madara/Documents/Unreal Projects/PhD_Experiment/Content/Materials/Opaque0-8.uasset",
+				"C:/Users/Madara/Documents/Unreal Projects/PhD_Experiment/Content/Materials/Opaque1.uasset",
+				"C:/Users/Madara/Documents/Unreal Projects/PhD_Experiment/Content/Materials/Opaque1-0.uasset",
+				"C:/Users/Madara/Documents/Unreal Projects/PhD_Experiment/Content/Materials/Opaque0-9.uasset",
+				"C:/Program Files/Epic Games/UE_5.1/Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud.uasset",
+				"C:/Users/Madara/Documents/Unreal Projects/PhD_Experiment/Content/SolarPanelActors/FastForwardDay.uasset",
+				"C:/Program Files/Epic Games/UE_5.1/Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud_Inst.uasset",
+				"C:/Users/Madara/Documents/Unreal Projects/PhD_Experiment/Content/DataTables/Struct.uasset",
+				"C:/Users/Madara/Documents/Unreal Projects/PhD_Experiment/Content/DataTables/RuntimeData.uasset",
+				"C:/Users/Madara/Documents/Unreal Projects/PhD_Experiment/Content/Demo.umap",
+				"C:/Users/Madara/Documents/Unreal Projects/PhD_Experiment/Content/SolarPanelActors/Timer.uasset",
+				"C:/Users/Madara/Documents/Unreal Projects/PhD_Experiment/Content/SolarPanelActors/RealTimeWeatherIntegrator.uasset",
+				"C:/Users/Madara/Documents/Unreal Projects/PhD_Experiment/Content/SolarPanelActors/SatImageProcessing.uasset",
+				"C:/Users/Madara/Documents/Unreal Projects/PhD_Experiment/Content/NewBlueprint.uasset",
+				"C:/Users/Madara/Documents/Unreal Projects/PhD_Experiment/Content/Untitled.umap"
+			]
+		}
+	]
+}
